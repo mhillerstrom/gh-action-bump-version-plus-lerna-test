@@ -1,1 +1,12 @@
-{"name":"@test-repo/projectB","version":"15.0.0","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"","license":"ISC"}
+{
+  "name": "@test-repo/projectB",
+  "version": "15.0.1-pre.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
